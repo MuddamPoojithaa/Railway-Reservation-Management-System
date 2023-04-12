@@ -6,7 +6,7 @@
   
 # FEATURES LIKE:
   # 1.Providing their choice of coach that they fare which would like to travel and in-return will be provided.
-   #2.It can also have integrated with booking system and an end to end application can be created out of this.
+   # 2.It can also have integrated with booking system and an end to end application can be created out of this.
 # PURPOSE:
     This project is to provide a seamless and hassle-free system for the users to view thier choice of trains 👍
     
